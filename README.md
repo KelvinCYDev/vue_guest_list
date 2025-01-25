@@ -2,6 +2,8 @@
 
 A Simple CRUD Guest Management
 
+<img src="public/screenshot.png" />
+
 ## Features
 
 - CRUD Guests (name, roomNumber)
